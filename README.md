@@ -124,4 +124,4 @@ This project was built during ForgeHacks 2026 with the help of an AI assistant (
 
 ## Team
 
-<your name / team members>
+Shruti Jadhav and Aayush Mahadik
