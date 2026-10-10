@@ -85,8 +85,7 @@ Text pasted into the app is analysed in the session and is not stored by the app
 ## Run locally
 
 ```bash
-git clone https://github.com/<your-username>/veridex-ai.git
-cd veridex-ai
+git clone https://github.com/shruuttiii/veridex-ai.gitcd veridex-ai
 pip install -r requirements.txt
 streamlit run app.py
 ```
